@@ -1,0 +1,11 @@
+students={
+    201:"vishala",202:"vikas",203:"Ambika",204:"mallikarjun"
+    }
+print(students)
+print(students[202])
+print(students.keys())
+print(students.values())
+students[201]="Rakshita"
+students[203]='sunil'
+print(students)
+len(students)
